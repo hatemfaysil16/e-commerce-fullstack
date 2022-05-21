@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00.270 --> 00:06.330
+Hi and welcome to our web API is introduction course where we're going to be covering how to access
+
+00:06.420 --> 00:14.400
+Jason data make use of Jason data and make ajax requests to return content back and use it within your
+
+00:14.400 --> 00:15.950
+web application.
+
+00:15.960 --> 00:20.040
+My name is Lawrence and I'm excited to be the instructor for this course.
+
+00:20.040 --> 00:22.140
+I really enjoy working with JavaScript.
+
+00:22.140 --> 00:28.620
+I come to you with 20 years of web development javascript experience connecting to web API is is a essential
+
+00:28.620 --> 00:31.550
+part of being able to build web applications.
+
+00:31.620 --> 00:36.660
+And I'm going to be showing you how you can connect to various Web APIs throughout the upcoming lesson.
+
+00:36.690 --> 00:44.730
+Source Code is also included as well as this handy PDA f guide that is meant to supplement the course
+
+00:44.790 --> 00:50.880
+content and walk you through the various lessons that are up and coming including some useful links
+
+00:50.910 --> 00:57.390
+resources and source code as well as most lessons will have a challenge for you to try the code out
+
+00:57.690 --> 01:04.980
+see what you can do with JavaScript javascript each team LCROSS are prerequisites to this course as
+
+01:04.980 --> 01:12.390
+this course is focused on JavaScript objects Jason and making ajax requests and anything related to
+
+01:12.450 --> 01:19.110
+ajax requests with JavaScript we're gonna be covering what JavaScript objects are with JavaScript arrays
+
+01:19.110 --> 01:24.300
+are with plenty of examples how we can iterate through the array contents how can it iterate through
+
+01:24.330 --> 01:31.050
+object contents and then getting Jason data and passing and string refining that data into usable objects
+
+01:31.170 --> 01:36.150
+and then it's going to come to the fun part where we're going to be connecting to using content files
+
+01:36.450 --> 01:43.080
+in order to output data into our application there is an explanation about how to use fetch as well
+
+01:43.110 --> 01:51.330
+as how to create Jason bins online that you can connect to and practice making ajax requests to and
+
+01:51.330 --> 01:57.180
+pulling that data back into your web applications and then also using fetch in a number of different
+
+01:57.180 --> 02:05.250
+ways connecting to data that's on your server itself as a Jason File and then also using fetch with
+
+02:05.250 --> 02:11.970
+the arrow function expressions and then we're going to connect to various Web APIs to really get lots
+
+02:11.970 --> 02:19.110
+of practice and get familiar with connecting various Jason data and then iterating through and looping
+
+02:19.110 --> 02:22.010
+through that data in order to output it into our page.
+
+02:22.080 --> 02:31.350
+So this includes using random user API the Reddit post API get hub repo API Stack Overflow API and then
+
+02:31.350 --> 02:38.670
+also connected to Google Sheet data also how you can output your own Google Sheet data as Jason File
+
+02:38.910 --> 02:44.190
+and connect to it with your web application and bring the data into your web application and there's
+
+02:44.190 --> 02:50.290
+a number of challenges throat and also showing you how you can post data using fetch and then retrieve
+
+02:50.310 --> 02:57.990
+back those posts and page me through a bunch of Jason data creating an interactive web application Source
+
+02:57.990 --> 03:03.360
+Code is include a layout of the lessons is that the source code is going to be on the left hand side
+
+03:03.750 --> 03:09.710
+within the editor and on the right hand side you're going to be able to see the code in action within
+
+03:09.720 --> 03:16.620
+the Chrome browser using console quite a bit if you have any questions or comments I'm always happy
+
+03:16.620 --> 03:19.100
+to hear you in the Q and A section of the course.
+
+03:19.230 --> 03:22.140
+So let's dive right in and start coding some javascript.
